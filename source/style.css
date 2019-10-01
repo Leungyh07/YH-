@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'lk';
+  src:  url('fonts/lk.eot?8drghb');
+  src:  url('fonts/lk.eot?8drghb#iefix') format('embedded-opentype'),
+  url('fonts/lk.ttf?8drghb') format('truetype'),
+  url('fonts/lk.woff?8drghb') format('woff'),
+  url('fonts/lk.svg?8drghb#lk') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="lk-"], [class*=" lk-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'lk' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.lk-heart:before {
+  content: "\e900";
+  color: #f8b62b;
+}
+.lk-icon_manager:before {
+  content: "\e901";
+  color: #f8b62b;
+}
+.lk-left:before {
+  content: "\e902";
+  color: #f8b62b;
+}
+.lk-property-safety:before {
+  content: "\e903";
+  color: #f8b62b;
+}
+.lk-rest:before {
+  content: "\e904";
+  color: #f8b62b;
+}
+.lk-right:before {
+  content: "\e905";
+  color: #f8b62b;
+}
+.lk-run:before {
+  content: "\e906";
+  color: #f8b62b;
+}
+.lk-safety-certificate:before {
+  content: "\e907";
+  color: #f8b62b;
+}
+.lk-user:before {
+  content: "\e908";
+  color: #f8b62b;
+}
+.lk-arrow-up2:before {
+  content: "\ea3a";
+}
+.lk-circle-right:before {
+  content: "\ea42";
+}
